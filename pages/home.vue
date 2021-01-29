@@ -6,7 +6,7 @@
           <v-list-item-content>
             <v-list-item-title>
               <div class="text-h1">
-                <p class="text-center">Index</p>
+                <p class="text-center">Home</p>
               </div>
             </v-list-item-title>
           </v-list-item-content>
